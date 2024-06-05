@@ -4,7 +4,6 @@
 #         self.val = val
 #         self.next = next
 
-
 class Solution(object):
     def addTwoNumbers(self, l1, l2):
         # Initialize carry to False, which indicates if there's an extra digit to add from the previous sum.
