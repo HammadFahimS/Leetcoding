@@ -6,7 +6,7 @@ The "Median of Two Sorted Arrays" problem is a classical challenge that requires
 The solution involves merging the two arrays while maintaining their sort order and then calculating the median. The approach is efficient in scenarios where both arrays are large and sorted. By merging only enough of the arrays to find the median, the solution avoids the full merge cost of `O(m+n)` typically associated with concatenating and sorting two arrays.
 
 #### Detailed Explanation
-### Merging Arrays:
+##### Merging Arrays:
 The function starts by initiating two pointers, one for each array. It then iterates through the arrays, comparing the current elements pointed to by the pointers and appending the smaller (or equal) element to a new list.
 ##### Calculating Median:
 Once enough elements have been merged (i.e., half of the total length of both arrays), the median is calculated. The median is the middle element if the total number of elements is odd. If even, it is the average of the two middle elements.
