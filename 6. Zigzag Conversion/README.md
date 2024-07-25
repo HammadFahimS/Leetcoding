@@ -1,4 +1,4 @@
-#Zigzag Conversion Solution
+# Zigzag Conversion Solution
 
 #### Problem Statement
 The "Zigzag Conversion" problem on LeetCode asks for the reordering of characters from a given string into a "zigzag" pattern across a specified number of rows and then reading the characters row by row. The purpose is to simulate the reading process as it would appear if the characters were written in a zigzag pattern on an imaginary grid.
