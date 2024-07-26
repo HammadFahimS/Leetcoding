@@ -9,3 +9,4 @@
 | 5  |  [Longest Palindromic Substring](https://github.com/HammadFahimS/Leetcoding/tree/main/5.%20Longest%20Palindromic%20Substring)      | Python        |  Medium        |
 |6|[Zigzag Conversion](https://github.com/HammadFahimS/Leetcoding/tree/main/6.%20Zigzag%20Conversion)|Python|Medium|
 |7|[Reverse Integer](https://github.com/HammadFahimS/Leetcoding/tree/main/7.%20Reverse%20Integer)|Python|Medium|
+|8|[String to Integer (atoi)](https://github.com/HammadFahimS/Leetcoding/tree/main/8.%20String%20to%20Integer%20(atoi))|Python|Medium|
