@@ -31,3 +31,8 @@ for length in range(2, len(s) + 1):  # length of the substring
                 max_palindrome = s[start:end + 1]
 ```
 
+#### Contributions
+Contributions to improve the solution are welcome, especially those that could further optimize the approach or reduce the memory footprint.
+
+#### License
+This project is released under the MIT License.
