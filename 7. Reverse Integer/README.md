@@ -41,3 +41,10 @@ class Solution(object):
 #### Results
 - **Runtime:** 4 ms, which beats 99.49% of Python submissions. This outstanding performance highlights the efficiency of the arithmetic-based approach over more complex methods.
 - **Memory Usage:** 11.70 MB, which is better than 24% of Python submissions. While this is relatively efficient, the space used is primarily due to the function call stack and the inherent overhead of managing integer operations in Python.
+
+#### Contributions
+Contributions to improve the solution are welcome, especially those that could further optimize the approach or reduce the memory footprint.
+
+#### License
+This project is released under the MIT License.
+
