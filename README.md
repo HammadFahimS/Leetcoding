@@ -1,4 +1,4 @@
-# LeetCode
+## LeetCode 🐶
 ### LeetCode solutions
 
 | # | Title | Solution | Difficulty |
