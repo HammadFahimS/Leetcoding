@@ -1,5 +1,5 @@
 ## CodeRetrievers 🐶 🐕
-Fetching solutions to Leetcode problems like a Golden Retriever on a sunny day. Stay, sit, and let's byte through LeetCode together!
+Fetching solutions to LeetCode problems like a Golden Retriever on a sunny day. Stay, sit, and let's byte through LeetCode together!
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
