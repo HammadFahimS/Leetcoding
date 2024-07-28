@@ -15,7 +15,7 @@ Welcome to the CodeRetrievers' playground, where we unleash our coding skills an
 |6|[Zigzag Conversion](https://github.com/HammadFahimS/Leetcoding/tree/main/6.%20Zigzag%20Conversion)|Python|Medium|
 |7|[Reverse Integer](https://github.com/HammadFahimS/Leetcoding/tree/main/7.%20Reverse%20Integer)|Python|Medium|
 |8|[String to Integer (atoi)](https://github.com/HammadFahimS/Leetcoding/tree/main/8.%20String%20to%20Integer%20(atoi))|Python|Medium|
-|9|[palindrome Number](https://github.com/HammadFahimS/Leetcoding/tree/main/9.%20Palindrome%20Number)|Python|Easy|
+|9|[Palindrome Number](https://github.com/HammadFahimS/Leetcoding/tree/main/9.%20Palindrome%20Number)|Python|Easy|
 
 ### Features
 - **Tail-Wagging Solutions:** Every solution in our repository comes with a tail-wag of approval for readability and efficiency.
