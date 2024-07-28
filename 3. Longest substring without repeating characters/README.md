@@ -19,3 +19,9 @@ Memory Usage: 11.89 MB, which is better than 77.18% of Python submissions.
 
 #### Usage
 To use this solution, simply clone the repository and run the script with Python. Ensure that your environment is set up with Python 3.
+
+#### Contributions
+Contributions to improve the solution are welcome, especially those that could further optimize the approach or reduce the memory footprint.
+
+#### License
+This project is released under the MIT License.
