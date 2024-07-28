@@ -1,6 +1,6 @@
-# CodeRetrievers 🐕🐾
+# CodeRetrievers 🐕 🐾
 
-## Fetching solutions to LeetCode problems like a Golden Retriever on a sunny day. Stay, sit, and let's byte through LeetCode together!
+#### Fetching solutions to LeetCode problems like a Golden Retriever on a sunny day. Stay, sit, and let's byte through LeetCode together!
 
 Welcome to the CodeRetrievers' playground, where we unleash our coding skills and chase down algorithms like they're frisbees in the park. Dive into our repository where each solution is a stick fetched with the joy only a coder's best friend can understand. Whether you're here to dig up some clever code or just to paw around, we've got a bone to pick with every LeetCode challenge!
 
