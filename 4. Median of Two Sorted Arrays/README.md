@@ -18,3 +18,9 @@ Space Complexity: The space complexity is `O(m+n)` due to the storage required f
 #### Results
 * Runtime: 61 ms, beating 66.41% of Python submissions.
 * Memory Usage: 11.75 MB, better than 67.99% of Python submissions.
+
+#### Contributions
+Contributions to improve the solution are welcome, especially those that could further optimize the approach or reduce the memory footprint.
+
+#### License
+This project is released under the MIT License.
