@@ -35,7 +35,3 @@ Found a bug or need an improvement? Let us know or better yet, dig it up yoursel
 
 ### License
 This project is licensed under the MIT License - see the LICENSE.md file for details. Feel free to dig up, sniff through, and mark your territory as you see fit!
-
----
-
-This enhanced README adds a playful tone, dog-inspired humor, and engaging language to make the GitHub repository more welcoming and fun for fellow coders. Adjust any of the playful analogies or instructions as necessary to better fit your repository's style or guidelines.
