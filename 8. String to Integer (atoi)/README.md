@@ -29,4 +29,7 @@ print(result)  # Output will be -42
 ```
 
 #### Contributions
-Improvements and optimizations are welcome, particularly in enhancing the handling of edge cases and further optimizing performance for larger strings.
+Contributions to improve the solution are welcome, especially those that could further optimize the approach or reduce the memory footprint.
+
+#### License
+This project is released under the MIT License.
