@@ -1,5 +1,5 @@
-## LeetCode 🐶
-### LeetCode solutions
+## CodeRetrievers 🐶 🐕
+Fetching solutions to Leetcode problems like a Golden Retriever on a sunny day. Stay, sit, and code with us!
 
 | # | Title | Solution | Difficulty |
 |---|-------|----------|------------|
