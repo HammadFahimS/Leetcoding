@@ -36,3 +36,8 @@ for char in s:
 # Assuming the code is saved as solution.py and Python 3.x is installed
 python solution.py
 ```
+#### Contributions
+Contributions to improve the solution are welcome, especially those that could further optimize the approach or reduce the memory footprint.
+
+#### License
+This project is released under the MIT License.
