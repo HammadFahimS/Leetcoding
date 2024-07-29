@@ -48,3 +48,4 @@ Contributions to improve the solution are welcome, especially those that could f
 #### License
 This project is released under the MIT License.
 
+---
