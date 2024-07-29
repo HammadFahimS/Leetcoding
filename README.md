@@ -35,3 +35,6 @@ Found a bug or need an improvement? Let us know or better yet, dig it up yoursel
 
 ### License
 This project is licensed under the MIT License - see the LICENSE.md file for details. Feel free to dig up, sniff through, and mark your territory as you see fit!
+
+---
+----------
