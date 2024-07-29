@@ -16,7 +16,7 @@ Welcome to the CodeRetrievers' playground, where we unleash our coding skills an
 |7|[Reverse Integer](https://github.com/HammadFahimS/Leetcoding/tree/main/7.%20Reverse%20Integer)|Python|Medium|
 |8|[String to Integer (atoi)](https://github.com/HammadFahimS/Leetcoding/tree/main/8.%20String%20to%20Integer%20(atoi))|Python|Medium|
 |9|[Palindrome Number](https://github.com/HammadFahimS/Leetcoding/tree/main/9.%20Palindrome%20Number)|Python|Easy|
-
+|10|[Regular Expression Matching](https://github.com/HammadFahimS/Leetcoding/tree/main/10.%20Regular%20Expression%20Matching)|Python|Hard|
 ### Features
 - **Tail-Wagging Solutions:** Every solution in our repository comes with a tail-wag of approval for readability and efficiency.
 - **Puppy-Eyed Debugging:** Caught a bug? Let us know! We tackle bugs with the persistence of a puppy chasing its tail.
@@ -37,4 +37,3 @@ Found a bug or need an improvement? Let us know or better yet, dig it up yoursel
 This project is licensed under the MIT License - see the LICENSE.md file for details. Feel free to dig up, sniff through, and mark your territory as you see fit!
 
 ---
-----------
