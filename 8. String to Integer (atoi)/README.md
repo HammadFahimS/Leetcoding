@@ -1,4 +1,4 @@
-### String to Integer (atoi) Solution
+# String to Integer (atoi) Solution
 
 #### Problem Statement
 The "String to Integer (atoi)" problem is a common coding challenge that mimics the conversion functionality of the `atoi` function in C/C++. The task is to convert a string input into a 32-bit signed integer. The function must handle spaces, optional signs (+ or -), numerical characters, and disregard any subsequent non-numerical characters.
