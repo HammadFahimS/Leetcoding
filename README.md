@@ -17,6 +17,7 @@ Welcome to the CodeRetrievers' playground, where we unleash our coding skills an
 |8|[String to Integer (atoi)](https://github.com/HammadFahimS/Leetcoding/tree/main/8.%20String%20to%20Integer%20(atoi))|Python|Medium|
 |9|[Palindrome Number](https://github.com/HammadFahimS/Leetcoding/tree/main/9.%20Palindrome%20Number)|Python|Easy|
 |10|[Regular Expression Matching](https://github.com/HammadFahimS/Leetcoding/tree/main/10.%20Regular%20Expression%20Matching)|Python|Hard|
+|11|[Container With Most Water](https://github.com/HammadFahimS/Leetcoding/tree/main/11.%20Container%20with%20Most%20Water)|Python|Medium|
 ### Features
 - **Tail-Wagging Solutions:** Every solution in our repository comes with a tail-wag of approval for readability and efficiency.
 - **Puppy-Eyed Debugging:** Caught a bug? Let us know! We tackle bugs with the persistence of a puppy chasing its tail.
