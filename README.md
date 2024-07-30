@@ -1,5 +1,5 @@
 ## CodeRetrievers 🐕 🐾
-![Language]([https://img.shields.io/badge/language-Python%20%2F%20Modern%20C++-orange.svg](https://img.shields.io/badge/Language-Python%203.10-orange)&nbsp;
+![Language](https://img.shields.io/badge/Language-Python%203.10-orange)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md)&nbsp;
 ![Update](https://img.shields.io/badge/update-weekly-green.svg)&nbsp;
 #### Fetching solutions to LeetCode problems like a Golden Retriever on a sunny day. Stay, sit, and let's byte through LeetCode together!
