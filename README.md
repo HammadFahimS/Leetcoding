@@ -1,8 +1,9 @@
 ## CodeRetrievers 🐕 🐾
+<div style="text-align: right"> 
 ![Language](https://img.shields.io/badge/language-Python%20%2F%20Modern%20C++-orange.svg)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md)&nbsp;
 ![Update](https://img.shields.io/badge/update-weekly-green.svg)&nbsp;
-#### Fetching solutions to LeetCode problems like a Golden Retriever on a sunny day. Stay, sit, and let's byte through LeetCode together!
+#### Fetching solutions to LeetCode problems like a Golden Retriever on a sunny day. Stay, sit, and let's byte through LeetCode together!your-text-here </div>
 ---
 Welcome to the CodeRetrievers' playground, where we unleash our coding skills and chase down algorithms like they're frisbees in the park. Dive into our repository where each solution is a stick fetched with the joy only a coder's best friend can understand. Whether you're here to dig up some clever code or just to paw around, we've got a bone to pick with every LeetCode challenge!
 
