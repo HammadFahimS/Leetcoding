@@ -28,21 +28,6 @@ Consider the integer `1994`. The conversion process would be as follows:
 | 3    | 90    | XC    | MCMXC   | 4             |
 | 4    | 4     | IV    | MCMXCIV | 0             |
 
-#### Code Implementation
-```python
-class Solution(object):
-    def intToRoman(self, num):
-        roman = ''
-        mapping = [(1000, 'M'), (900, 'CM'), (500, 'D'), (400, 'CD'),
-                   (100, 'C'), (90, 'XC'), (50, 'L'), (40, 'XL'),
-                   (10, 'X'), (9, 'IX'), (5, 'V'), (4, 'IV'), (1, 'I')]
-        
-        for value, symbol in mapping:
-            while num >= value:
-                roman += symbol
-                num -= value
-        return roman
-```
 
 #### Time and Space Complexities
 - **Time Complexity**: \(O(1)\), as the mapping and iterations are limited and do not grow with the size of the input.
