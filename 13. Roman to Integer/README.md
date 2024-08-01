@@ -1,10 +1,10 @@
-### README for "Roman to Integer" Solution
+# Roman to Integer
 
 #### Problem Statement
-The "Roman to Integer" problem (LeetCode #13) requires converting a Roman numeral string to its integer equivalent. Roman numerals are represented by combinations of letters from the Latin alphabet that signify specific values. The notation involves combining these symbols and applying the subtractive principle for specific patterns, making the conversion from Roman numerals to integers not entirely straightforward.
+The "Roman to Integer" problem (LeetCode #13) requires converting a Roman numeral string to its integer equivalent. Roman numerals are represented by combinations of letters from the Latin alphabet that signify specific values. The notation combines these symbols and applies the subtractive principle for particular patterns, making the conversion from Roman numerals to integers not entirely straightforward.
 
 #### Solution Overview
-This solution uses a mapping strategy that involves processing the Roman numeral string from right to left. By iterating backwards, it allows the direct application of Roman numeral rules, especially handling subtractive combinations effectively by checking preceding characters.
+This solution uses a mapping strategy that involves processing the Roman numeral string from right to left. Iterating backwards allows the direct application of Roman numeral rules, especially handling subtractive combinations effectively by checking preceding characters.
 
 #### Detailed Explanation
 - **Mapping Dictionary**: A dictionary is initialized containing all relevant Roman numerals and their integer values, including subtractive sequences like "IV" and "IX".
