@@ -28,18 +28,24 @@ Final Result: 1994
 
 #### Code Implementation
 ```python
-class Solution:
+class Solution(object):
     def romanToInt(self, s):
-        mapping = {'I': 1, 'V': 5, 'X': 10, 'L': 50, 'C': 100, 'D': 500, 'M': 1000}
+        mapping = {'I': 1, 'V': 5, 'X': 10, 'L': 50, 'C': 100, 'D': 500, 'M': 1000,
+                   'IV': 4, 'IX': 9, 'XL': 40, 'XC': 90, 'CD': 400, 'CM': 900}
         total = 0
-        prev_value = 0
-        for char in reversed(s):
-            value = mapping[char]
-            if value >= prev_value:
-                total += value
+        previous_char = ''
+        for character in s[::-1]:
+            num = mapping[character]
+            # Determine if this should be a subtraction
+            if previous_char in ['V','X'] and character == 'I':
+                total -= num
+            elif previous_char in ['L','C'] and character == 'X':
+                total -= num
+            elif previous_char in ['D','M'] and character == 'C':
+                total -= num
             else:
-                total -= value
-            prev_value = value
+                total += num
+            previous_char = character
         return total
 ```
 
