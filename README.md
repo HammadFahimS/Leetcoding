@@ -24,6 +24,7 @@ Welcome to the CodeRetrievers' playground, where we unleash our coding skills an
 |13|[Roman to Integer](https://github.com/HammadFahimS/Leetcoding/tree/main/13.%20Roman%20to%20Integer)|Python|Easy|
 |14|[Longest Common Prefix](https://github.com/HammadFahimS/Leetcoding/tree/main/14.%20Longest%20Common%20Prefix)|Python|Easy|
 |15|[3SUM](https://github.com/HammadFahimS/Leetcoding/tree/main/15.%203SUM)|Python|Medium|
+|16|[3SUM Closest](https://github.com/HammadFahimS/Leetcoding/tree/main/16.%203SUM%20Closest)|Python|Medium|
 
 ### Features
 - **Tail-Wagging Solutions:** Every solution in our repository comes with a tail-wag of approval for readability and efficiency.
