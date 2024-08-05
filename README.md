@@ -25,6 +25,7 @@ Welcome to the CodeRetrievers' playground, where we unleash our coding skills an
 |14|[Longest Common Prefix](https://github.com/HammadFahimS/Leetcoding/tree/main/14.%20Longest%20Common%20Prefix)|Python|Easy|
 |15|[3SUM](https://github.com/HammadFahimS/Leetcoding/tree/main/15.%203SUM)|Python|Medium|
 |16|[3SUM Closest](https://github.com/HammadFahimS/Leetcoding/tree/main/16.%203SUM%20Closest)|Python|Medium|
+|17|[Letter Combinations of a Phone Number](https://github.com/HammadFahimS/Leetcoding/tree/main/17.%20Letter%20Combinations%20of%20a%20Phone%20Number)|Python|Medium|
 
 ### Features
 - **Tail-Wagging Solutions:** Every solution in our repository comes with a tail-wag of approval for readability and efficiency.
