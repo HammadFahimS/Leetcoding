@@ -1,4 +1,4 @@
-# Letter Combinations of a Phone Number Solution
+# Letter Combinations of a Phone Number
 
 #### Problem Statement
 The "Letter Combinations of a Phone Number" problem (LeetCode #17) challenges us to generate all possible letter combinations that the number could represent, similar to the letter mappings on a traditional mobile phone keypad.
