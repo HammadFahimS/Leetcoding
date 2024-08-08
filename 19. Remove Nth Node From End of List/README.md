@@ -115,3 +115,5 @@ class Solution(object):
 | 6    | -                | [1,2,3,5]   | Return updated head                |
 
 This approach ensures that we correctly remove the nth node from the end of the list while handling various edge cases.
+
+---
