@@ -69,8 +69,6 @@ The solution was accepted with the following results:
 - **Runtime**: 5 ms, faster than 98.31% of submissions.
 - **Memory Usage**: 11.78 MB, better than 47.43% of submissions.
 
-![Valid Parenthesis Result](file-DFyghQsUPsgKkk4dI9eUvG3k)
-
 ## Step-by-Step Illustration
 
 | Step | Character | Stack           | Action                           |
