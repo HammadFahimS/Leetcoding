@@ -29,6 +29,7 @@ Welcome to the CodeRetrievers' playground, where we unleash our coding skills an
 |18|[4SUM](https://github.com/HammadFahimS/Leetcoding/tree/main/18.%204SUM)|Python|Medium|
 |19|[Remove Nth Node From End of List](https://github.com/HammadFahimS/Leetcoding/tree/main/19.%20Remove%20Nth%20Node%20From%20End%20of%20List)|Python|Medium|
 |20|[Valid Parenthesis](https://github.com/HammadFahimS/Leetcoding/tree/main/20.%20Valid%20Parenthesis)|Python|Easy|
+|21|[Merge two Sorted Lists](https://github.com/HammadFahimS/Leetcoding/tree/main/21.%20Merge%20two%20Sorted%20Lists)|Python|Easy|
 
 ### Features
 - **Tail-Wagging Solutions:** Every solution in our repository comes with a tail-wag of approval for readability and efficiency.
